@@ -1,0 +1,4 @@
+- Smart pointers isssues
+- Performance tests
+- DLL sideloading
+- Symlink attack
